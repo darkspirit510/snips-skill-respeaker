@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from cls.is31fl3236 import IS31FL3236
 import paho.mqtt.client as mqtt
 import time
